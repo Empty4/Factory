@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/test_GameAgent.cpp.o CMakeFiles/tests.dir/test_Tank.cpp.o CMakeFiles/tests.dir/test_Factory.cpp.o CMakeFiles/tests.dir/test_Game.cpp.o -o tests  ../src/game/libgame.a -lgtest -lgtest_main

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/factory_game.dir/link.d CMakeFiles/factory_game.dir/src/main.cpp.o -o factory_game  src/game/libgame.a

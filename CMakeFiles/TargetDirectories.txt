@@ -1,0 +1,12 @@
+/home/kali/projects/Factory/build/CMakeFiles/factory_game.dir
+/home/kali/projects/Factory/build/CMakeFiles/test.dir
+/home/kali/projects/Factory/build/CMakeFiles/edit_cache.dir
+/home/kali/projects/Factory/build/CMakeFiles/rebuild_cache.dir
+/home/kali/projects/Factory/build/src/game/CMakeFiles/game.dir
+/home/kali/projects/Factory/build/src/game/CMakeFiles/test.dir
+/home/kali/projects/Factory/build/src/game/CMakeFiles/edit_cache.dir
+/home/kali/projects/Factory/build/src/game/CMakeFiles/rebuild_cache.dir
+/home/kali/projects/Factory/build/tests/CMakeFiles/tests.dir
+/home/kali/projects/Factory/build/tests/CMakeFiles/test.dir
+/home/kali/projects/Factory/build/tests/CMakeFiles/edit_cache.dir
+/home/kali/projects/Factory/build/tests/CMakeFiles/rebuild_cache.dir
